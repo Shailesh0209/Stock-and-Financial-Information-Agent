@@ -2,6 +2,9 @@
 
 This project is designed to provide real-time stock and financial information using an OpenAI-powered agent with access to the Polygon API. The agent can fetch data such as the latest stock quotes, financials, news, and aggregates for a specified stock ticker. The application is built using Streamlit and LangChain, allowing users to query financial information interactively.
 
+![Image Description](/ui.png)
+
+
 ## Prerequisites
 
 Before running the application, ensure you have the following installed:
